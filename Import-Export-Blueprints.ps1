@@ -14,10 +14,10 @@ Usage      : AZURE Blueprint - Export and Import as Code
 
 #####################################################################################
 
-Recommend to update to version 1.4.0 of the Az PowerShell Module
+Recommend to update to version 2.2.0 of the Az PowerShell Module
 
 The Az PowerShell Module is available from here https://github.com/Azure/azure-powershell/releases/tag/v1.4.0-February2019
-... or run: Install-Module -Name Az -RequiredVersion 1.4.0 -AllowClobber
+... or run: Install-Module -Name Az -RequiredVersion 2.2.0 -AllowClobber
 
 Run Get-InstalledModule to check installed modules
 
